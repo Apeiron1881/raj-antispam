@@ -1,0 +1,24 @@
+{
+  "name": "raj-antispam.js",
+  "version": "0.1.1",
+  "description": "Türkçe Spam Koruması Modülü | Rol Ayarlamalı | Mesaj Ayarlamalı | Süre Ayarlamalılı En Gelişik Antispam Modülü!",
+  "main": "raj-antispam.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "anti_spam_sistemi",
+    "antispam",
+    "discord.js",
+    "spam"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Apeiron1881/raj-antispam.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Apeiron1881/raj-antispam/issues"
+  },
+  "homepage": "https://github.com/Apeiron1881/raj-antispam/blob/master/README.md",
+  "author": "TheRaj"
+}
